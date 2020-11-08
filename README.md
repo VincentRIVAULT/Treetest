@@ -1,2 +1,2 @@
-# Treetest
-Recherche rapide de fichiers dans l'arborescence d'un disque
+# Projet_C
+Recherche de fichiers dans une arborescence d'un disque
